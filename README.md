@@ -15,6 +15,4 @@ BLOG : https://hyuil.tistory.com/<br><br>
   <strong>여행 서비스</strong> <br><a href="https://github.com/h0l1da2/with_huyil">위드휴일</a><br><br>
   <strong>팬 페이지</strong><br> <a href="https://github.com/h0l1da2/always_also_holiday">오늘도 휴일</a>
   <br><br>
-  <h3>👾 공부중</h3>
-  <a href="https://hyuil.notion.site/bccf11c58e8846a59f93b5fb61ab4698"><strong>SKILL SET</strong></a>
 </div>
