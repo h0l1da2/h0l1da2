@@ -12,7 +12,7 @@ BLOG : https://hyuil.tistory.com/<br><br>
   <img src="spring.png" width="150px" height="79px"/>
   <br><br>
   <h3>👀 진행한 프로젝트</h3><br>
-  <strong>태그 메모 서비스(~진행중)</strong><br> <a href="https://github.com/h0l1da2/MEMO-RE_BE">MEMO:RE</a><br><br>
+  <strong>태그 메모 서비스</strong><br> <a href="https://github.com/h0l1da2/MEMO-RE_BE">MEMO:RE</a><br><br>
   <strong>팬 페이지</strong><br> <a href="https://github.com/h0l1da2/always_also_holiday">오늘도 휴일</a><br><br>
   <strong>여행 서비스</strong> <br><a href="https://github.com/h0l1da2/with_huyil">위드휴일</a><br><br>
 
