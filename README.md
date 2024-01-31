@@ -5,7 +5,7 @@
 🧐 주니어 개발자 <strong>강휴일</strong>입니다.<br>
 EMAIL : holiday.k1@icloud.com<br>
 BLOG : https://hyuil.tistory.com/<br><br>
-  NOTION <br>https://www.notion.so/hyuil/cf625f8928c84daf96a7f2a8cf6104c1?pvs=4 <br>
+  NOTION <br>https://hyuil.notion.site/500-400-1e81fd191e1844a1a5fcd1a7a5cba455?pvs=4<br>
 <br><br>
   <h2>SKILL</h2>
   <img src="java.png" width="150px" height="81px"/>
