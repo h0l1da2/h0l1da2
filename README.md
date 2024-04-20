@@ -3,8 +3,8 @@
 <br><br>
 <div align="center">
 🧐 주니어 개발자 <strong>강휴일</strong>입니다.<br>
-EMAIL : holiday.k1@icloud.com<br>
-BLOG : https://hyuil.tistory.com/<br><br>
+EMAIL : <a href="mailto:﻿"holiday.k1@icloud.com">holiday.k1@icloud.com</a><br>
+BLOG : https://holiday-kang.me/<br><br>
 <br>
 
   <h2>SKILL</h2>
