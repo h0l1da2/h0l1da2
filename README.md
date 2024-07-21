@@ -14,8 +14,11 @@ BLOG : https://holiday-kang.me/<br><br>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> </br>
    <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/> 
    <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat&logo=auth0&logoColor=white"/> </br>
-   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> </br>
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/> </br>
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> </br>
+   <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/> </br>
+   <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> </br>
    
   <h3>👀 진행한 프로젝트</h3><br>
   <strong>(개발중)</strong><br><strong>태그 정리 가계부</strong><br> <a href="https://github.com/yomankum-project/backWeb">요만큼</a><br><br>
