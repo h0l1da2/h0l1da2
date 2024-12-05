@@ -21,7 +21,7 @@ BLOG : https://holiday-kang.me/<br><br>
    <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> </br>
    
   <h3>👀 진행한 프로젝트</h3><br>
-  <strong>(개발중)</strong><br><strong>태그 정리 가계부</strong><br> <a href="https://github.com/yomankum-project/backWeb">요만큼</a><br><br>
+  <strong>태그 정리 가계부</strong><br> <a href="https://github.com/yomankum-project/backWeb">요만큼</a><br><br>
   <strong>태그 메모 서비스</strong><br> <a href="https://github.com/h0l1da2/MEMO-RE_BE">MEMO:RE</a><br><br>
   
   <br><br>
