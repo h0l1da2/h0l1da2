@@ -4,7 +4,7 @@
 <div align="center">
 🧐 주니어 개발자 <strong>강휴일</strong>입니다.<br>
 EMAIL : <a href="mailto:﻿"holiday.k1@icloud.com">holiday.k1@icloud.com</a><br>
-BLOG : https://holiday-kang.me/<br><br>
+BLOG : https://hyuil.tistory.com/<br><br>
 <br>
 
   <h2>SKILL</h2>
@@ -18,10 +18,14 @@ BLOG : https://holiday-kang.me/<br><br>
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> </br>
    <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
    <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat&logo=githubactions&logoColor=white"/> </br>
-   <img src="https://img.shields.io/badge/redis-FF4438?style=flat&logo=apachekafka&logoColor=white"/>
-   <img src="https://img.shields.io/badge/apachekafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> </br>
+   
    
   <h3>👀 진행한 프로젝트</h3><br>
+  <br>
+  <string>홈서버에 구성한 우리집 iot(진행중)</string><br> <a href="https://github.com/h0l1da2/hiot">HIot</a><br>
+  <br>
+  <string>일기를 줄 테니 채팅으로 위로해줘(진행중)</string><br> <a href="https://github.com/mme-bot/Backend">mme-bot</a><br>
+  <br>
   <strong>권한 검증 서버</strong><br> <a href="https://github.com/h0l1da2/authorization_server">인증 서버</a><br>
   <a href="https://github.com/h0l1da2/authorization_redis_server">레디스 통신 서버</a><br>
   <br><br>
