@@ -24,9 +24,7 @@ BLOG : https://hyuil.tistory.com/<br><br>
    
   <h3>👀 진행한 프로젝트</h3><br>
   <br>
-  <string>홈서버에 구성한 우리집 iot(진행중)</string><br> <a href="https://github.com/h0l1da2/hiot">HIot</a><br>
-  <br>
-  <string>일기를 줄 테니 채팅으로 위로해줘(진행중)</string><br> <a href="https://github.com/mme-bot/Backend">mme-bot</a><br>
+  <string>일기를 줄 테니 채팅으로 위로해줘(진행중)</string><br> <a href="https://github.com/mme-bot/mme-bot-Backend">mme-bot</a><br>
   <br>
   <strong>권한 검증 서버</strong><br> <a href="https://github.com/h0l1da2/authorization_server">인증 서버</a><br>
   <a href="https://github.com/h0l1da2/authorization_redis_server">레디스 통신 서버</a><br>
